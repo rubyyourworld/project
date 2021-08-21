@@ -1,0 +1,86 @@
+body{
+  text-align: center;
+
+}
+h1 {
+  margin-top: 50px;
+  display: inline-block;
+  font-style: italic;
+}
+p{
+  padding: 20px;
+  border: 20px;
+  font-family: monospace;
+}
+.first-page{
+  background-color: #B42B51;
+  position: relative;
+  margin-left: 0;
+}
+.second-page{
+  background-color: #FF6B6B;
+  }
+  .heading{
+  font-style: italic;
+  font-size:50px;
+  }
+  .paragraph{
+    font-size: 20px;
+    font-style: normal;
+  }
+.top-tree{
+  position: absolute;
+  margin-top:0;
+  border-top:0;
+  right: 420px;
+  top: 0;
+
+}
+.top-container{
+    display: inline-block;
+height: 100px;
+width: 200px;
+}
+.middle-container{
+  position: absolute;
+  margin-top: 0;
+  width: 1000px;
+  height: 1000px;
+  top: 90px;
+
+}
+.bottom-container{
+  position: relative;
+}
+.maou{
+position: absolute;
+width: 40px;
+height: 40px;
+margin-left: 552px;
+margin-top: 244px;
+top: 0px;
+left: 0px;
+overflow: hidden;
+}
+.mountain{
+  width: 500px;
+  align-items: center;
+  top: 70px;
+  left: 100px;
+}
+.iconic{
+  text-decoration: underline;
+}
+.girl{
+  width: 150px;
+  text-decoration: round;
+}
+.way{
+  width:200px;
+}
+.phone{
+  width: 200px;
+}
+.teddy{
+  width:200px;
+}
